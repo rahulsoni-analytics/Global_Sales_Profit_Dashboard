@@ -1,4 +1,5 @@
-Screenshot_2025-12-09-02-22-39-65_92460851df6f172a4592fca41cc2d2e6.jpg
+![Dashboard Preview](Screenshot_2025-12-09-02-22-39-65_92460851df6f172a4592fca41cc2d2e6.jpg)
+
 
 # Global_Sales_Profit_Dashboard
 ## 📊 Project Overview
