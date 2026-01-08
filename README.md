@@ -14,7 +14,5 @@ performance, regional trends, and monthly sales growth.
 - Monthly sales trend analysis
 - Revenue contribution by category
 
-## 📷 Dashboard Preview
-
 
 Rahul Soni
