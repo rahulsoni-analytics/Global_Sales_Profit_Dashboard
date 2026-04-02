@@ -9,7 +9,9 @@ Built an interactive Power BI dashboard analyzing 119M+ sales, generating 17M+ p
 
 Analyzed product, country, and discount-level data to identify top-performing products, high-revenue regions, and key business trends.
 
-Provided actionable insights to support data-driven decision-making across different business segments.
+Provided actionable insights to support data-driven decision-making across different business segments
+
+Improved decision-making by identifying revenue-driving regions and products.
 
 ### 🛠 Tools Used
 Power BI | Excel | SQL (Data Cleaning)
